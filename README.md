@@ -1,4 +1,7 @@
 
+[さくらインターネット公式で自動更新サービスが提供](https://www.sakura.ne.jp/function/freessl.html)されたので，今後はそちらを使ってください．
+
+
 # さくらのレンタルサーバへのSSL証明書の自動設定
 
 [![Apache License](http://img.shields.io/badge/license-APACHE2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
